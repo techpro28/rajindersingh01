@@ -29,6 +29,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-yellow?style=flat-square&logo=Flutter)
 ![Bloc](https://img.shields.io/badge/-Bloc-blue?style=flat-square&logo=bloc)
 ![Riverpod](https://img.shields.io/badge/-Riverpod-black?style=flat-square&logo=Riverpod)
+![Figma](https://img.shields.io/badge/-FIgma-orange?style=flat-square&logo=Figma)
 
 
 <h5> ⚡ SERVER | BACKEND :  </h5>
