@@ -65,14 +65,14 @@
 
 <p/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajinderchauhan&show_icons=true&locale=en&layout=compact" alt="rajinderchauhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajindersingh01&show_icons=true&locale=en&layout=compact" alt="rajindersingh01" /></p>
 
 <h5>  </h5>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajinderchauhan&show_icons=true&locale=en" alt="rajinderchauhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajindersingh01&show_icons=true&locale=en" alt="rajindersingh01" /></p>
 
 <p/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajinderchauhan&" alt="rajinderchauhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajindersingh01&" alt="rajindersingh01" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
